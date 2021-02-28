@@ -1,0 +1,17 @@
+tsetse-fly-landmark-detection-seams/
+.idea/
+.vscode/
+other/
+venv/
+classif_tip/
+Papers/
+manuscript1_exp/classifiers/training_losses
+manuscript1_exp/classifiers/models
+manuscript1_exp/Pipeline/Results
+manuscript1_exp/regressors/models
+manuscript1_exp/regressors/training_losses
+manuscript1_exp/rubbish
+flipped_left.csv
+tsetsedata_2019_left_commas
+tsetsedata_2019_right_commas
+Vandaelle_method/models
